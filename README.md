@@ -3,7 +3,7 @@
 
 Alguns atalhos que uso no VSCode no Windows.
 
-### Abrir/Fechar - Ver
+### Abrir/Fechar
 | Funcionalidade           |  Atalhos  
 |--------------------------|:-----------------:|
 | Todos os atalhos         |Ctrl+K Ctrl+S      | 
@@ -25,4 +25,13 @@ Alguns atalhos que uso no VSCode no Windows.
 | Rola a página para cima     |Alt+PgUp           |
 | Rola a página para baixo    |Alt+PgDown         |
 | Comentar linha              |Ctrl+;             |
+
+### Pesquise e Substitua
+| Funcionalidade                            |  Atalhos  
+|-------------------------------------------|:-----------------:|
+| Pesquisar                                 |Ctrl+F             |
+| Substituir                                |Ctrl+H             | 
+| Selecionar todas ocorrências da seleção   |Ctrl+F2            | 
+| Adicionar seleção a próxima ocorrência    |Ctrl+D            | 
+
 
